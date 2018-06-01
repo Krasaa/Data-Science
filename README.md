@@ -1,6 +1,3 @@
-# Data
-
-
-<font size = 4> This repository is for small project or homework concerning Datascience.</font>
-
+# Data  
+<font size = 4> This repository is for small project or homework concerning Datascience.</font>  
 <font size = 4> Most of them are in the form of notebook.</font>
